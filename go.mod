@@ -1,4 +1,4 @@
-module github.com/halm4d/imagesorter
+module github.com/halm4d/filesorter
 
 go 1.18
 
